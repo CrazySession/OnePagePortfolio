@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #74767B;
+}
+
+#logo{
+    width: 12%;
+    height: 12%;
+    float: left;
+}
+
+#brand{
+    text-align: right;
+    font-family: 'Kumar One', cursive;
+    margin-right: 25px;
+    color: #BCBFC7;
+}
+
+h2{
+    text-align: right;
+    margin-right: 25px;
+    color: #BCBFC7;
+}
+
+ul{
+    list-style: none;
+}
+
+aside{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+#boxOne{
+    width: 100px;
+    height: 100px;
+    background-color: #38393B;
+    border-radius: 20px;
+    margin-bottom: 25px;
+}
+
+#boxTwo{
+    width: 100px;
+    height: 100px;
+    background-color: #74767B;
+    border-radius: 20px;
+    margin-bottom: 25px;
+}
+
+#boxThree{
+    width: 100px;
+    height: 100px;
+    background-color: #BCBFC7;
+    border-radius: 20px;
+}
+
+#textOne{
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#textTwo{
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#textThree{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#mainImg{
+    float: right;
+    height: 400px;
+    margin: 25px;
+}
+
+#imgOne{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+#imgTwo{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+#imgThree{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: #74767B;
+    text-align: center;
+}
+
+a:link
+{
+    color:#38393B;
+    text-decoration:none  !important;
+}
+a:visited
+{
+    color:#38393B;
+    text-decoration:none !important;
+}
+a:hover
+{
+    color:#38393B;
+    text-decoration:none !important;
+}
+
+a:active
+{
+    color: #38393B;
+    text-decoration: none !important;
+}

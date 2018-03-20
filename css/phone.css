@@ -1,0 +1,92 @@
+header{
+    width: 100%;
+}
+
+#logo{
+    width: 5%;
+    height: 5%;
+}
+
+#brand{
+    font-size: 1em;
+    text-align: left;
+}
+
+h2{
+    font-size: 1em;
+    text-align: left;
+}
+
+aside{
+    margin: 0;
+}
+
+#boxOne{
+    width: 40px;
+    height: 40px;
+    background-color: #38393B;
+    border-radius: 20px;
+    float: left;
+}
+
+#boxTwo{
+    width: 40px;
+    height: 40px;
+    background-color: #74767B;
+    border-radius: 20px;
+    float: left;
+}
+
+#boxThree{
+    width: 40px;
+    height: 40px;
+    background-color: #BCBFC7;
+    border-radius: 20px;
+    float: left;
+}
+
+#textOne{
+    float: left;
+    font-size: 0.5em;
+}
+
+#textTwo{
+    float: left;
+    font-size: 0.5em;
+}
+
+#textThree{
+    float: left;
+    font-size: 0.5em;
+}
+
+#mainImg{
+    margin: 0;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+}
+
+#imgOne{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+#imgTwo{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+#imgThree{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin: 25px;
+    border-radius: 20px;
+}
